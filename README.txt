@@ -1,5 +1,5 @@
 README
-JavaScript calculator with basic functions. This was good training for me how to use basic front-end stuff
+JavaScript calculator with basic functions. This was good training for me how to use basic front-end tech
 effectively.
 
 CONTACT
